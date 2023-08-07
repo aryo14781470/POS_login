@@ -1,0 +1,12 @@
+root{
+	--border:.1rem solid rgba(0,0,0,.3);
+	--black:#2c3e50;
+}
+.qty{
+	border: var(--border);
+	border-radius: .5rem;
+	padding:.5rem 1rem;
+	width:6.5rem;
+	font-size: 1.8rem;
+	color: var(--black);
+}
